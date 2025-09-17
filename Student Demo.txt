@@ -1,5 +1,5 @@
                                Student Demo
-NAME    : Dinesh sai pavan
+NAME    : Dinesh sai pavan NAkka
 
 Roll no : 115
 
@@ -10,3 +10,4 @@ SUC     : 2350250297
 EMIL.ID : ndineshnaidu26@gamilo.com
 
 college : Aditya Degree College TPG
+
